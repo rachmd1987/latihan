@@ -1,11 +1,10 @@
-ubah baris 1
-21
-31
-4
-12
-413
-5
-4
-5767
-5
-h
+<?php
+function satu{
+1
+345
+}
+function dua{
+2678
+}
+?>
+910
